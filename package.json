@@ -1,0 +1,28 @@
+{
+  "name": "howuku",
+  "version": "1.0.0",
+  "description": "Small component to implement Howuku into your progressive web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howuku/howuku.git"
+  },
+  "keywords": [
+    "Howuku",
+    "Heatmap",
+    "Recording",
+    "Analytics"
+  ],
+  "author": "Howuku Analytics",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/howuku/howuku/issues"
+  },
+  "homepage": "https://github.com/howuku/howuku#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
